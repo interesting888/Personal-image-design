@@ -71,15 +71,3 @@ python main.py --im_path1 90.png --im_path2 15.png --im_path3 117.png --sign fid
 ## Acknowledgments
 This code borrows heavily from [II2S](https://github.com/ZPdesu/II2S).
 
-## BibTeX
-
-```
-@misc{zhu2021barbershop,
-      title={Barbershop: GAN-based Image Compositing using Segmentation Masks},
-      author={Peihao Zhu and Rameen Abdal and John Femiani and Peter Wonka},
-      year={2021},
-      eprint={2106.01505},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
