@@ -1,7 +1,7 @@
 # 使用分割遮罩进行基于 GAN 的图像合成
 ![teaser](docs/assets/teaser.png)
 
-> [**Barbershop: GAN-based Image Compositing using Segmentation Masks**](https://zpdesu.github.io/Barbershop/)<br/>
+> [**使用分割遮罩进行基于 GAN 的图像合成**]
 [Peihao Zhu](https://github.com/ZPdesu),
 [Rameen Abdal](https://github.com/RameenAbdal),
 [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ&hl=en),
